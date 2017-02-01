@@ -8,7 +8,7 @@ Die Beschreibung der Hardware findet ihr auf http://www.4bees.at/wiki/-/wiki/Mai
 Dieses Repository dient der Entwicklung der Firmware für das Photon für eine Stockwaage mit folgenden Anforderungen:
 
     -> Herstellung der Internetverbindung über die SoftAP Funktion
-    -> Verbindung mit dem Datenserver [cloud.4bees.at] (http://cloud.4bees.at) herstellen - über den API Schlüssel des Datenkanals
+    -> Verbindung mit dem Datenserver http://cloud.4bees.at herstellen - über den API Schlüssel des Datenkanals
     -> Kalibrierung der Waage und Speicherung des Scalefactors und des Offsets in den Feldern 7 und 8 des Datenkanals
     -> stündliche Messung von Gewicht, Aussentemperatur, Luftfeuchtigkeit aussen, Innentemperatur im Bienenvolk, Luftfeuchtigkeit im Bienenvolk und Ladezustand des Akkus
        (Feld 1 - Feld 6 des Datenkanals)
