@@ -13,3 +13,5 @@ Dieses Repository dient der Entwicklung der Firmware für das Photon für eine S
     -> stündliche Messung von Gewicht, Aussentemperatur, Luftfeuchtigkeit aussen, Innentemperatur im Bienenvolk, Luftfeuchtigkeit im Bienenvolk und Ladezustand des Akkus
        (Feld 1 - Feld 6 des Datenkanals)
     -> Übermittlung der Daten an den Datenserver http://cloud.4bees.at
+
+Test
